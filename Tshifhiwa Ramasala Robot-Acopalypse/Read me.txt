@@ -1,6 +1,4 @@
 
-Certainly! Below is a simple README documentation template for your project. Adjust the content as needed based on your project structure and additional details.
-
 Robot Apocalypse API
 Overview
 Welcome to the Robot Apocalypse API! This API is designed to handle survivor and robot data in a world taken over by robots.
@@ -13,7 +11,7 @@ Sequelize: ORM (Object-Relational Mapping) for database interactions.
 Postman: API development and testing tool.
 Project Structure
 plaintext
-Copy code
+
 robot_apocalypse_api/
 |-- db/
 |   |-- db.js              # Database configuration
