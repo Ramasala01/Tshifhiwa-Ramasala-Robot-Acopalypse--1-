@@ -21,7 +21,7 @@ sequelize
 
 // Default route for the API root
 app.get('/', (req, res) => {
-  res.send('Welcome to the Robot Apocalypse API!'); // Customize this message
+  res.send('Welcome to the Robot Apocalypse API!'); 
 });
 
 // Use Survivor and Robot routes
